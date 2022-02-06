@@ -11,3 +11,7 @@ TODO: Guide users through getting your code up and running no their own system. 
 | 1. | Project Structure |
 | 2. | Software Dependences|
 | 3. | Fundamentals|
+| 3.1 | Define the scope of variables|
+| 3.1.a |Define the structure of a Java class|
+| 3.1.b |Create executable Java applications with a main method|
+| 3.1.c | Import other Java packages to make them accessible in your code|
