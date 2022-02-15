@@ -18,6 +18,8 @@ This is the basic point of any certification, improving your knowledge about the
 So becoming a certified Java means that you have a more solid and in-depth knowledge of the language than a developer at the same level, but not certified.
 The textbooks and syllabi for the exams are built to help you understand different aspects of language such as concepts, collections, generics, and threads.
 
+Some Benefits: 
+
 [x] Visibility in the market;
 [x] Better employment and better chances of promotion;
 [x] By becoming certified you improve your career, knowledge and confidence about the language.
