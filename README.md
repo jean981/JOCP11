@@ -11,21 +11,22 @@
 
 <strong> The purpose of this project is to show what are the benefits of being a Java certified.</strong>
 
-
 <strong> Opportunity to improve knowledge in language!</strong>
 
 This is the basic point of any certification, improving your knowledge about the certification's area of expertise and having material proof that you actually did it.
 So becoming a certified Java means that you have a more solid and in-depth knowledge of the language than a developer at the same level, but not certified.
 The textbooks and syllabi for the exams are built to help you understand different aspects of language such as concepts, collections, generics, and threads.
 
-Some Benefits: 
+Some Benefits:
 
-[x] Visibility in the market;
-[x] Better employment and better chances of promotion;
-[x] By becoming certified you improve your career, knowledge and confidence about the language.
+:white_check_mark:Visibility in the market;
 
-## Getting Started:
-TODO: Guide users through getting your code up and running no their own system. In this section you can talk about:
+:white_check_mark:Better employment and better chances of promotion;
+
+:white_check_mark:By becoming certified you improve your career, knowledge and confidence about the language.
+
+## Summary:
+
 | Section | Section Name |
 | --- | --- |
 | 1. | Project Structure |
@@ -34,4 +35,5 @@ TODO: Guide users through getting your code up and running no their own system. 
 | 3.1 | Define the scope of variables|
 | 3.1.a |Define the structure of a Java class|
 | 3.1.b |Create executable Java applications with a main method|
-| 3.1.c | Import other Java packages to make them accessible in your code|
+| 3.1.c |Import other Java packages to make them accessible in your code|
+| 3.1.d |Exemples: Excercises List|
